@@ -133,8 +133,9 @@ form.example button {
 .card .content .btn button:hover{
   transform: scale(0.9);
 }
-.col-md{
+.col-md{	
 	position:absolute;
+	display:inline-block;
 }
 .abc{
 	text-decoration:none; 
